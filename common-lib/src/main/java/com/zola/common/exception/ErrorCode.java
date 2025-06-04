@@ -1,0 +1,1 @@
+// Enum for standard error codes

@@ -1,0 +1,1 @@
+// Generic Kafka event envelope
